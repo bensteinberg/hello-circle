@@ -1,5 +1,6 @@
 import sys
 import requests
+import sleekxmpp
 
 print("Hello, Circle CI!")
 
