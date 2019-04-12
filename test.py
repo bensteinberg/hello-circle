@@ -8,4 +8,4 @@ if len(sys.argv) > 1:
 
 r = requests.get('https://lil.law.harvard.edu/')
 print(r.status_code)
-print(r.text)
+# print(r.text)
